@@ -1,0 +1,76 @@
+.buttons {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 3px solid ;
+    border-radius: 9px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 17px;
+    background-color: yellow;
+    border-color: black;
+  }
+
+  .buttons-1 {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 3px solid ;
+    border-radius: 9px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 17px;
+    background-color:blanchedalmond;
+  }
+
+
+.input {
+    width: 275px;
+    border: 3px solid;
+    height: 1.16cm;
+    font-size: 25px;
+    margin: auto;
+    border-radius: 120px;
+    text-align: end;
+    text-indent: 20px;
+    padding-right: 16px;
+  }
+
+  .row{
+    margin: 8px 0;
+  }
+
+.item{
+    align-items: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+}
+
+.body {
+    /* max-width: 500px; */
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    margin-top: 30px;
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.box{
+  width: 430px;
+  height: 590px;
+  border: 3px solid;
+  border-radius: 40px;
+  margin-left: 450px;
+  margin-top: 50px;
+  background: linear-gradient(to right, #c31432, #240b36)
+}
+
+.container-items{
+  width: 300px;
+  margin: auto;
+}
